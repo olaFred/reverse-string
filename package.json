@@ -1,0 +1,25 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "A program that takes in a string argument and reverses it",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/olaFred/reverse-string.git"
+  },
+  "keywords": [
+    "jasmine",
+    "javascript",
+    "node",
+    "string"
+  ],
+  "author": "Fred Adewole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olaFred/reverse-string/issues"
+  },
+  "homepage": "https://github.com/olaFred/reverse-string#readme"
+}
